@@ -36,15 +36,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <table><tr><td valign="top" width="50%">
 
 - Olá, seja bem vindo (https://tenor.com/pt-BR/view/welcome-gif-18730887)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
 </td><td valign="top" width="50%">
@@ -73,7 +64,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
 
 </td><td valign="top" width="50%">
 
@@ -87,7 +78,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
 
 <br/>  
