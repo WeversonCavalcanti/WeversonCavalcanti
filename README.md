@@ -3,7 +3,7 @@
 <h1>👋 Olá, eu sou Weverson</h1>
 
 <p>
-💻 Desenvolvedor Front-End <br>
+💻 Desenvolvedor Front-End e back-end<br>
 🚀 Sempre aprendendo novas tecnologias
 </p>
 
